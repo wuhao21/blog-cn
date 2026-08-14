@@ -1,0 +1,68 @@
+media:
+  input: public/images
+  output: /images
+
+content:
+  - name: posts
+    label: 文章
+    type: collection
+    path: src/content/posts
+    filename: '{fields.abbrlink}.md'
+    view:
+      fields: [title, published, description, draft]
+      sort: [published, title]
+      default:
+        search: ''
+        sort: published
+        order: desc
+    fields:
+      - name: title
+        label: 标题
+        type: string
+        required: true
+      - name: published
+        label: 发布日期
+        type: date
+        required: true
+      - name: description
+        label: 副标题
+        description: 显示在主页标题下方的一句话简介
+        type: string
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+      - name: lang
+        label: 语言
+        type: select
+        default: zh
+        options:
+          values: [zh]
+      - name: abbrlink
+        label: URL Slug
+        description: 文章链接 /posts/<slug>/，小写字母、数字和连字符
+        type: string
+        pattern:
+          regex: '^[a-z0-9\-]*$'
+          message: 只能包含小写字母、数字和连字符
+      - name: draft
+        label: 隐藏（草稿）
+        type: boolean
+        default: false
+      - name: body
+        label: 正文
+        type: rich-text
+
+  - name: about
+    label: 关于页
+    type: file
+    path: src/content/about/about-zh.md
+    fields:
+      - name: lang
+        label: 语言
+        type: string
+        hidden: true
+        default: zh
+      - name: body
+        label: 内容
+        type: rich-text
