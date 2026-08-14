@@ -1,6 +1,6 @@
 ---
 title: 写在毕设之前
-published: 2018-04-12
+published: 2016-09-15
 tags:
   - 毕设
 lang: zh
