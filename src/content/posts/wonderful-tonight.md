@@ -7,9 +7,6 @@ lang: zh
 abbrlink: wonderful-tonight
 ---
 
-## Wonderful Tonight
-
-
 <iframe src="https://open.spotify.com/embed/track/5PZJxhLQ34IbwrB6VDVSnz?utm_source=generator&theme=0" width="100%" height="352" frameborder="0" allowfullscreen loading="lazy"></iframe>
 > 《Wonderful Tonight》 - Timeless 可啦思刻 - Khalil Fong
 

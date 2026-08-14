@@ -82,6 +82,7 @@ export function getPostDescription(
   const rawContent = post.body || ''
   const cleanContent = rawContent
     .replace(/<!--[\s\S]*?-->/g, '') // Remove HTML comments
+    .replace(/<\/?[a-z][^>]*>/gi, '') // Remove raw HTML tags (iframe embeds, etc.)
     .replace(/```[\s\S]*?```/g, '') // Remove code blocks
     .replace(/^\s*#{1,6}\s+\S.*$/gm, '') // Remove Markdown headings
     .replace(/^\s*::.*$/gm, '') // Remove directive containers
