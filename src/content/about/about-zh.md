@@ -10,7 +10,7 @@ lang: zh
 
 <figure style="margin: 2rem auto; text-align: center;">
   <img src="/icons/mage.jpg" alt="吴昊的麻糕店" width="320" style="margin: 0 auto; border-radius: 6px;" />
-  <figcaption style="margin-top: 0.6rem; font-size: 0.85em; opacity: 0.65;">吴昊的麻糕店 · 一个写字的地方</figcaption>
+  <figcaption style="margin-top: 0.6rem; font-size: 0.85em; opacity: 0.65;">麻糕店</figcaption>
 </figure>
 
 我在这里随手记一些生活、游戏、读过的书和乱七八糟的念头。有空常来坐坐。
