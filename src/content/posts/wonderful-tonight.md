@@ -5,7 +5,10 @@ tags:
   - 随笔
 lang: zh
 abbrlink: wonderful-tonight
+description: 写完骂了自己一句：“矫情逼，还不去刷题？”
 ---
+
+![](/images/wonderful-tonight-cover.jpg)
 
 <iframe src="https://open.spotify.com/embed/track/5PZJxhLQ34IbwrB6VDVSnz?utm_source=generator&theme=0" width="100%" height="352" frameborder="0" allowfullscreen loading="lazy"></iframe>
 > 《Wonderful Tonight》 - Timeless 可啦思刻 - Khalil Fong

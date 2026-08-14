@@ -5,10 +5,11 @@ tags:
   - 毕设
 lang: zh
 abbrlink: after-graduation-project
-draft: true
+description: 其实是一篇流水账。
 ---
 
-## 写在毕设之后
+![](/images/after-graduation-project-cover.jpg)
+
 毕设结束了，最繁忙的一个学期也告一段落。仔细想想，发现2016这一整年都没怎么歇，一路上马不停蹄，一眨眼就2017了。
 
 - 一月在学校背单词准备英语考试。我一个人躲在俞黎明角落的讨论室，听着深夜食堂的Op，背着单词，酝酿一些毫无缘由的惆怅。
