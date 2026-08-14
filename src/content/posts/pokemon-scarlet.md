@@ -5,6 +5,7 @@ tags:
   - 游戏
 lang: zh
 abbrlink: pokemon-scarlet
+description: 人生第三款正版宝可梦，通关之后的碎碎念。
 ---
 
 # Pokémon Scarlet 宝可梦 朱

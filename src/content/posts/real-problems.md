@@ -7,6 +7,7 @@ tags:
   - AIGC
 lang: zh
 abbrlink: real-problems
+description: 我们不再缺少解决问题的能力，缺的是真实的问题。
 ---
 
 — 我们不再缺少解决问题的能力，我们缺少的是"真实的问题"。

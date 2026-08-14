@@ -5,6 +5,7 @@ tags:
   - 随笔
 lang: zh
 abbrlink: religion-and-death
+description: 在温暖的教堂里，想了想死亡这件事。
 ---
 
 ## 宗教与死亡

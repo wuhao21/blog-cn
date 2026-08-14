@@ -5,6 +5,7 @@ tags:
   - 科技
 lang: zh
 abbrlink: us-visa-status-bot
+description: 查签证状态查到心累，干脆写了个 Bot 替我盯着。
 ---
 
 ## 一个自动刷新美签状态的Bot

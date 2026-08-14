@@ -6,6 +6,7 @@ tags:
   - 科技
 lang: zh
 abbrlink: nreal-air
+description: 重度电子消费品爱好者的随手测评。
 ---
 
 ## 前言

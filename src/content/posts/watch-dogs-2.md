@@ -6,6 +6,7 @@ tags:
   - 游戏
 lang: zh
 abbrlink: watch-dogs-2
+description: 不聊游戏本身，聊聊开头那五分钟的视频。
 ---
 
 ## 关于看门狗2

@@ -5,6 +5,7 @@ tags:
   - 随笔
 lang: zh
 abbrlink: china-trip
+description: 攒了三年假期的回国路，被 H-1B 折腾得够呛。
 ---
 
 ## H-1B的苦难
