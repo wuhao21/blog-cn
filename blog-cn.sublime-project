@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": ["node_modules", "dist", ".astro", ".github"],
+			"file_exclude_patterns": ["pnpm-lock.yaml", "*.woff2"],
+		},
+	],
+}
